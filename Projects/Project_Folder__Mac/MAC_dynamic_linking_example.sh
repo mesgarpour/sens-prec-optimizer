@@ -115,6 +115,9 @@ install_name_tool -change /System/Library/Frameworks/AGL.framework/Versions/A/AG
         @executable_path/../Frameworks/AGL.framework/Versions/A/AGL \
         SensPrecOptimizer.app/Contents/Frameworks/QtGui.framework/Versions/5/QtGui
 
+install_name_tool -change /opt/local/lib/libboost_system-mt.dylib \
+        @executable_path/../Frameworks/libboost_system-mt.dylib \
+        SensPrecOptimizer.app/Contents/Frameworks/libboost_filesystem-mt.dylib
 
 
 
