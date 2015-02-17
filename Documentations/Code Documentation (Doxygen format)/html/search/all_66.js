@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['file_5finput_5fdelimiter',['FILE_INPUT_DELIMITER',['../global_8h.html#a4cf81f8dd1139df93ff82e54094e0b24',1,'global.h']]],
+  ['file_5foutput_5fdelimiter',['FILE_OUTPUT_DELIMITER',['../global_8h.html#acc19eebeb416a156d20d209ab48fc360',1,'global.h']]],
+  ['file_5foutput_5fexten',['FILE_OUTPUT_EXTEN',['../global_8h.html#a04a4cf247d3de0434dd9b47318b8fedc',1,'global.h']]],
+  ['file_5foutput_5flog',['FILE_OUTPUT_LOG',['../global_8h.html#a7147133f226fa0ae3972002b25ec5462',1,'global.h']]],
+  ['file_5foutput_5fstats',['FILE_OUTPUT_STATS',['../global_8h.html#a8eaa44dc8c91239999be48c1958e1ceb',1,'global.h']]],
+  ['filtercombbyprecision',['filterCombByPrecision',['../classmanager.html#ae813173a44d1d783f4632a611a6a50e6',1,'manager']]],
+  ['filtercombinations',['filterCombinations',['../classmanager.html#abd8d4c205d0910a9824588789abc5da7',1,'manager']]],
+  ['filtercomblimitrange',['filterCombLimitRange',['../classmanager.html#a8cfffa8a0dcd4d29e1bd647c571b72de',1,'manager']]],
+  ['filterminimizelength',['filterMinimizeLength',['../structparameters_1_1strc_config_parameters.html#a1291f99cf7442476fd3b7539318525a6',1,'parameters::strcConfigParameters']]],
+  ['filtersensrange',['filterSensRange',['../structparameters_1_1strc_config_parameters.html#a0f7220646cd1e0cf91dc4e0ee5ec1e2c',1,'parameters::strcConfigParameters']]],
+  ['finished',['finished',['../classmainwindow.html#a9681c8841029f291cfd94db892b6816d',1,'mainwindow']]],
+  ['fldcombsmaller',['fldCombSmaller',['../class_ui__mainwindow.html#a60ed9fb12dbb8ba56306882a4739c879',1,'Ui_mainwindow']]],
+  ['fldcombstart',['fldCombStart',['../class_ui__mainwindow.html#aca92c5b9f508c675fddc8a3045630dfb',1,'Ui_mainwindow']]],
+  ['fldfiltersens',['fldFilterSens',['../class_ui__mainwindow.html#a9f97fe5fbb2664cba86032588339acd1',1,'Ui_mainwindow']]],
+  ['fldinput',['fldInput',['../class_ui__mainwindow.html#af4d8d85afa68cde1121e42426836af97',1,'Ui_mainwindow']]],
+  ['fldminsens',['fldMinSens',['../class_ui__mainwindow.html#ae1879fb7464ba95424a440a35a2541f9',1,'Ui_mainwindow']]],
+  ['fldoutput',['fldOutput',['../class_ui__mainwindow.html#af61add257b932052e5605f6a41e56db8',1,'Ui_mainwindow']]],
+  ['fldtotalrelevancy',['fldTotalRelevancy',['../class_ui__mainwindow.html#a8f6fc86fb5f3ffa555f33a497a15478b',1,'Ui_mainwindow']]],
+  ['flush',['flush',['../classlogger.html#a9b54af0bca18be33e3b398338f8ffd25',1,'logger']]],
+  ['fsids',['fsIDs',['../structparameters_1_1strc_input_parameters.html#ab027d26075e6d2c523fba303004476ec',1,'parameters::strcInputParameters']]]
+];
