@@ -51,7 +51,7 @@ If you encounter a bug, please use the [GitHub Issue Tracker](https://github.com
 The program has been developed by the Clinical Pharmacology and the Emergency Medicine departments at the [Medical University of Vienna‎](http://www.univie.ac.at/en/) (Austria) and the School of Electronics and Computer Science at the [University of Westminster](http://www.westminster.ac.uk/about-us/faculties/science-and-technology) (UK).
    
 ### License
-SensPrecOptimizer is available under a free software license, allowing free access, distribution, modification and distribution of its modified versions, under the terms of the license [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). 
+SensPrecOptimizer is available under a free software license, allowing free access, distribution, modification and distribution of its modified versions, under the terms of the license [(Apache License 2.0)](http://www.apache.org/licenses/LICENSE-2.0). 
 
 
 
