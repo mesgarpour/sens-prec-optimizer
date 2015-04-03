@@ -1,4 +1,5 @@
-# Sens-Prec-Optimizer
+![Logo of the Sens-Prec-Optimizer](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/Documentations/Logos/logo_SensPrecOptimizer.jpg)
+
 
 ## About SensPrecOptimizer
 SensPrecOptimizer is a freeware software for developing _Highly Sensitive Search Strategies_ by combining the search queries. _Highly Sensitive Search Strategies_ refers to the two strategies recommended by the [Cochrane Handbook for Systematic Reviews of Interventions](http://handbook.cochrane.org/): a sensitivity-maximizing version and a sensitivity- and precision-maximizing version.
