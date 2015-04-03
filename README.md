@@ -38,7 +38,7 @@ The technical specifications can be accessed from [the documentation folder](htt
 ### News
   * Version 2.0.16 - Alpha:
    * The first public version is uploaded on Feb. 12th, 2015. 
-   * On Apr. 3rd, 2015, automatically exported from code.google.com/p/sens-prec-optimizer
+   * On Apr. 3rd, 2015, the project automatically exported from code.google.com/p/sens-prec-optimizer
    
 ### Bug Report
 If you encounter a bug, please use the [GitHub Issue Tracker](https://github.com/blog/411-github-issue-tracker) with as much as information is possible.
