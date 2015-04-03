@@ -6,9 +6,9 @@ SensPrecOptimizer is a freeware software for developing _Highly Sensitive Search
       
 ### Install
 You may download the software packages directly from below. They are in zip format and must be decompressed before setup.
-   * [**Windows (6.0 and above)**](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Windows_Ver.zip) - *It is recommended to use the Windows version, since it is fully optimised.*
-   * [**Mac (10.4 and above)**](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Mac_Ver.zip) - *Alpha version: the binary version must be optimised and additional static libraries must be included*
-   * **Linux (Fedora 17 and above)** - *additional resources are needed for compile,test and optimisation*
+      * [**Windows (6.0 and above)**](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Windows_Ver.zip) - *It is recommended to use the Windows version, since it is fully optimised.*
+      * [**Mac (10.4 and above)**](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Mac_Ver.zip) - *Alpha version: the binary version must be optimised and additional static libraries must be included*
+      * **Linux (Fedora 17 and above)** - *additional resources are needed for compile,test and optimisation*
 
 Please refer to the [user manual](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/Documentations/User%20Guide%20-%202.0.16.15.pdf) and the 'read.me' files in the package to setup and run the program.
    
@@ -37,9 +37,9 @@ The technical specifications can be accessed from [the documentation folder](htt
    
    
 ### News
-  * Version 2.0.16 - Alpha:
-   * The first public version is uploaded on Feb. 12th, 2015. 
-   * On Apr. 3rd, 2015, the project automatically exported from code.google.com/p/sens-prec-optimizer
+      * Version 2.0.16 - Alpha:
+            * The first public version is uploaded on Feb. 12th, 2015. 
+            * On Apr. 3rd, 2015, the project automatically exported from code.google.com/p/sens-prec-optimizer
    
 ### Bug Report
 If you encounter a bug, please use the [GitHub Issue Tracker](https://github.com/blog/411-github-issue-tracker) with as much as information is possible.
@@ -49,3 +49,11 @@ The program has been developed by the Clinical Pharmacology and the Emergency Me
    
 ### License
 SensPrecOptimizer is available under a free software license, allowing free access, distribution, modification and distribution of its modified versions, under the terms of the license. 
+
+### External links
+      * [Dr. Bita Mesgarpour (website)](http://www.mesgarpour.ir/)
+      * [Mohsen Mesgarpour (website)](http://deucecode.com/)
+      * [Prof. Harald Herkner](https://www.researchgate.net/profile/Harald_Herkner/)
+      * [Search strategies-identified reports on](http://www.ncbi.nlm.nih.gov/pubmed/22726764)
+      * [Search strategies to identify reports on](http://www.ncbi.nlm.nih.gov/pubmed/23272771)
+
