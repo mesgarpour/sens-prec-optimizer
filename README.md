@@ -5,9 +5,9 @@ SensPrecOptimizer is a freeware software for developing _Highly Sensitive Search
       
 ### Install
 You may download the software packages directly from below. They are in zip format and must be decompressed before setup.
-   * [https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Windows_Ver.zip](Windows, 6.0 and above) - **It is recommended to use the Windows version, since it is fully optimised.**
-   * [https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Mac_Ver.zip](Mac, 10.4 and above) - **Alpha version: _the binary version must be optimised and additional static libraries must be included**
-   * Linux, Fedora 17 and above - **additional resources are needed for compile,test and optimisation**
+   * [https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Windows_Ver.zip](Windows, 6.0 and above) - *It is recommended to use the Windows version, since it is fully optimised.*
+   * [https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Mac_Ver.zip](Mac, 10.4 and above) - *Alpha version: _the binary version must be optimised and additional static libraries must be included*
+   * Linux, Fedora 17 and above - *additional resources are needed for compile,test and optimisation*
 
 Please refer to the [https://github.com/mesgarpour/sens-prec-optimizer/blob/master/Documentations/User%20Guide%20-%202.0.16.15.pdf](user manual) and the 'read.me' files in the package to setup and run the program.
    
