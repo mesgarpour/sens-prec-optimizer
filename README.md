@@ -41,8 +41,8 @@ The technical specifications can be accessed from [the documentation folder](htt
    * On Apr. 3rd, 2015, automatically exported from code.google.com/p/sens-prec-optimizer
    
 ### Bug Report
-If you encounter a bug, please report it using [https://code.google.com/p/sens-prec-optimizer/issues/list this online form] with as much as information is possible. To open a new bug report, click on the "New Issue" button on the page.
-   
+If you encounter a bug, please use the [GitHub Issue Tracker](https://github.com/blog/411-github-issue-tracker) with as much as information is possible.
+
 ### Credits
 The program has been developed by the Clinical Pharmacology and the Emergency Medicine departments at the [Medical University of Vienna‎](http://www.univie.ac.at/en/) (Austria) and the School of Electronics and Computer Science at the [University of Westminster](http://www.westminster.ac.uk/about-us/faculties/science-and-technology) (UK).
    
