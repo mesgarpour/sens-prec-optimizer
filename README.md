@@ -40,9 +40,9 @@ The technical specifications can be accessed from [the documentation folder](htt
    
    
 ### News
-      * Version 2.0.16 - Alpha:
-            * The first public version is uploaded on Feb. 12th, 2015. 
-            * On Apr. 3rd, 2015, the project automatically exported from code.google.com/p/sens-prec-optimizer
+  * Version 2.0.16 - Alpha:
+    * The first public version is uploaded on Feb. 12th, 2015. 
+    * On Apr. 3rd, 2015, the project automatically exported from code.google.com/p/sens-prec-optimizer
    
 ### Bug Report
 If you encounter a bug, please use the [GitHub Issue Tracker](https://github.com/blog/411-github-issue-tracker) with as much as information is possible.
@@ -54,9 +54,9 @@ The program has been developed by the Clinical Pharmacology and the Emergency Me
 SensPrecOptimizer is available under a free software license, allowing free access, distribution, modification and distribution of its modified versions, under the terms of the license. 
 
 ### External links
-      * [Dr. Bita Mesgarpour (website)](http://www.mesgarpour.ir/)
-      * [Mohsen Mesgarpour (website)](http://deucecode.com/)
-      * [Prof. Harald Herkner](https://www.researchgate.net/profile/Harald_Herkner/)
-      * [Search strategies-identified reports on](http://www.ncbi.nlm.nih.gov/pubmed/22726764)
-      * [Search strategies to identify reports on](http://www.ncbi.nlm.nih.gov/pubmed/23272771)
+  * [Dr. Bita Mesgarpour (website)](http://www.mesgarpour.ir/)
+  * [Mohsen Mesgarpour (website)](http://deucecode.com/)
+  * [Prof. Harald Herkner](https://www.researchgate.net/profile/Harald_Herkner/)
+  * [Search strategies-identified reports on](http://www.ncbi.nlm.nih.gov/pubmed/22726764)
+  * [Search strategies to identify reports on](http://www.ncbi.nlm.nih.gov/pubmed/23272771)
 
