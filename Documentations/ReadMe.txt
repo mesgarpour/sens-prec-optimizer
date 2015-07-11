@@ -29,4 +29,4 @@ Documentation of the SensPrecOptimizer:
     
     
 7. "User Guide":
-    The user guide for the software user, which includes comprehensive instructions and descriptions.
+    It is the user guide for the software user, which includes comprehensive instructions and descriptions.
