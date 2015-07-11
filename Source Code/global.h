@@ -21,7 +21,7 @@
 #define FILE_OUTPUT_DELIMITER "," ///< delimiter for the output statistics
 //Menus
 #define ABOUT_PATH "About.html"
-#define HELP_PATH "https://code.google.com/p/sens-prec-optimizer/wiki/SensPrecOptimizer"
+#define HELP_PATH "https://github.com/mesgarpour/sens-prec-optimizer"
 
 static const std::string OUTPUT_TITLES[7] = ///< titles of the output statistics
 {
