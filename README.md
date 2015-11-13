@@ -13,7 +13,7 @@ You may download the software packages directly from below. They are in zip form
 
   * **Linux (Fedora 17 and above)** : *additional resources are needed for compile, test and optimisation*
 
-Please refer to the [user manual](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/Documentations/User%20Guide%20-%202.0.16.15.pdf) and the 'read.me' files in the package to setup and run the program.
+Please refer to the [user manual](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/Documentations/User%20Guide%20-%202.0.16.16.pdf) and the 'read.me' files in the package to setup and run the program.
    
 ### Getting Started
 The user manuals can be accessed from [the documentation folder](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/Documentations/), or you may download [the PDF file](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/Documentations/User%20Guide%20-%202.0.16.16.pdf).
