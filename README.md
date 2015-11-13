@@ -9,7 +9,7 @@ You may download the software packages directly from below. They are in zip form
 
   * [**Windows (6.0 and above)**](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Windows_Ver.zip) : *It is recommended to use the Windows version, since it is fully optimised.*
 
-  * [**Mac (10.4 and above)**](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Mac_Ver.zip) : *Alpha version: the binary version must be optimised and additional static libraries must be included*
+  * [**Mac (10.4)**](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/SensPrecOptimizer_Mac_Ver.zip) : *Alpha version: the binary version must be optimised and additional static libraries must be included*
 
   * **Linux (Fedora 17 and above)** : *additional resources are needed for compile, test and optimisation*
 
