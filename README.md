@@ -57,7 +57,7 @@ SensPrecOptimizer is available under a free software license, allowing free acce
 
 ----
 ### External links
-  * [Dr. Bita Mesgarpour (website)](http://www.bitamesgarpour.xom/)
+  * [Dr. Bita Mesgarpour (website)](http://www.bitamesgarpour.com/)
   * [Mohsen Mesgarpour (website)](http://deucecode.com/)
   * [Prof. Harald Herkner](https://www.researchgate.net/profile/Harald_Herkner/)
   * [Search strategies-identified reports on](http://www.ncbi.nlm.nih.gov/pubmed/22726764)
