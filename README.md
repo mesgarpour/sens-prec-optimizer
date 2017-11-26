@@ -37,7 +37,12 @@ It has automated combination of search queries to capture the shortest sensitive
 ----
 ## Development
 The technical specifications can be accessed from [the documentation folder](https://github.com/mesgarpour/sens-prec-optimizer/tree/master/Documentations), or you may download [the PDF file](https://github.com/mesgarpour/sens-prec-optimizer/blob/master/Documentations/Technical%20Specification%20-%202.0.16.10.pdf).
-   
+
+### Known Issues
+The software does not capture all the exceptions. Therefore, double check the following, before running the algorithm:
+   - The path of the input file and output folder are valid;
+   - The format of the inputted CSV file is correct;
+   - The configurable settings are valid.
    
 ### News
   * Version 2.0.16 - Alpha:
